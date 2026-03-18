@@ -1,9 +1,6 @@
-# projectHector2026
-projeto de software 2026
+# Projeto de software 2026
+## Aluno: Hector Vinicius Souza Silva
+=======================================================================
+### Adição dos trabalhos de documentação AMGE e ECTI no repositório
 
-# teste 1
-## Esse é um repositório teste feita pela disciplina projeto de software. Adicionando arquivos em um repositório vazio
-### Testando os tamanhos de fonte
-=======
-#### Item modificado através das requisições feitas no terminal linux
 
